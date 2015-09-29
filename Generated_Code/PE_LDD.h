@@ -6,7 +6,7 @@
 **     Version     : Component 01.000, Driver 01.04, CPU db: 3.00.000
 **     Repository  : Kinetis
 **     Compiler    : GNU C Compiler
-**     Date/Time   : 2015-09-28, 22:35, # CodeGen: 1
+**     Date/Time   : 2015-09-28, 22:46, # CodeGen: 2
 **     Abstract    :
 **
 **     Settings    :
@@ -61,6 +61,7 @@
 #include "PE_Types.h"
 #include "PE_Error.h"
 #include "PE_Const.h"
+#include "EL_S1.h"
 
 
 /*

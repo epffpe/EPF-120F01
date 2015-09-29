@@ -2,11 +2,11 @@
 <PE_PROJECT_SETTINGS_DOCUMENTATION>
   <PE_product_version v="version 10.5 for Freescale Microcontrollers" />
   <PE_core_version v="Processor Expert Version 0521" />
-  <CPU_Bean name="Cpu" type="MKL05Z32LF4">
+  <CPU_Bean name="Cpu" type="MKL05Z32LC4">
     <Enabled v="Y" />
     <Properties>
       <Component_name v="Cpu" />
-      <CPU_type v="MKL05Z32VLF4" />
+      <CPU_type v="MKL05Z32VFM4" />
       <Initialization_priority v="interrupts enabled" />
       <Watchdog_disable v="yes" />
       <group name="Internal peripherals">

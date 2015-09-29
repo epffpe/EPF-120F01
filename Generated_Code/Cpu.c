@@ -8,7 +8,7 @@
 **     Repository  : Kinetis
 **     Datasheet   : KL05P48M48SF1RM, Rev.3, Sep 2012
 **     Compiler    : GNU C Compiler
-**     Date/Time   : 2015-09-28, 22:35, # CodeGen: 1
+**     Date/Time   : 2015-09-28, 22:46, # CodeGen: 2
 **     Abstract    :
 **
 **     Settings    :
@@ -231,6 +231,7 @@
 /* MODULE Cpu. */
 
 /* {Default RTOS Adapter} No RTOS includes */
+#include "EL_S1.h"
 #include "PE_Types.h"
 #include "PE_Error.h"
 #include "PE_Const.h"
